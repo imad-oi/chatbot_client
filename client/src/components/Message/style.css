@@ -1,0 +1,42 @@
+.bot {
+    /* background-color: rgba(255, 0, 0, 0.13); */
+    display: flex;
+    float: left;
+    align-items: end;
+    justify-content: start;
+    width: 400px;
+    margin: 9px 0;
+
+}
+
+.bot_msg{
+    color:white;
+    background-color:rgba(88, 88, 247, 0.982) ;
+    border-radius: 10px;
+    border: none;
+    width: fit-content;
+    max-width: 170px;
+    overflow-x: auto;width: 140px;
+    overflow-wrap: break-word;
+    padding: 7px;
+    font-weight: bold;
+}
+
+.user {
+    display: flex;
+    float: right;
+}
+
+.user_msg{
+    color:white;
+    background-color:rgba(0, 128, 0, 0.811) ;
+    overflow-wrap: break-word;
+    text-align: center;
+    width: fit-content;
+    border-radius: 10px;
+    border: none;
+    max-width: 160px;
+    padding: 7px;
+    margin-left: 200px;
+    font-weight: bold;
+}

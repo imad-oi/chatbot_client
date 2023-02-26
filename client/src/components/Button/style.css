@@ -1,0 +1,23 @@
+.btn-plus{
+    background-color: red;
+    height: 30px;
+    width: fit-content;
+    border-radius: 20px;
+    border: none;
+    padding: 4px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.btn-moins{
+    background-color: green;
+    height: 30px;
+    width: fit-content;
+    border-radius: 20px;
+    border: none;
+    padding: 4px;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
